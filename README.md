@@ -5,9 +5,6 @@
 ⚡ I build scalable backend systems, distributed microservices, and AI-powered applications designed for production environments.
 
 📍 United States  
-🌐 Portfolio: https://sampathraavi.netlify.app/  
-💻 GitHub: https://github.com/raavisampath74  
-💼 LinkedIn: https://www.linkedin.com/in/sampath-kumar-raavi/
 
 ---
 
@@ -92,7 +89,7 @@ Projects include:
 
 ## 🌐 Connect With Me
 
-- 💻 GitHub: https://github.com/raavisampath74  
+- 💻 GitHub: https://github.com/raavisampath74
 
 ---
 
