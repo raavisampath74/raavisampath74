@@ -93,8 +93,6 @@ Projects include:
 ## 🌐 Connect With Me
 
 - 💻 GitHub: https://github.com/raavisampath74  
-- 💼 LinkedIn: https://www.linkedin.com/in/sampath-kumar-raavi/  
-- 🌐 Portfolio: https://sampathraavi.netlify.app/  
 
 ---
 
