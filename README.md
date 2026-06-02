@@ -33,8 +33,7 @@ I enjoy building reliable, scalable systems and continuously learning modern bac
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-Python • C • C++ • SQL • R • Java • Rust • MATLAB
-
+Python • C • C++ • SQL • R • Java • Rust • MATLAB • Go • Swift  
 ### 🌐 Web Development & Distributed Systems
 HTML • CSS • JavaScript • TypeScript  
 React.js • Angular • Vue.js  
